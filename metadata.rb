@@ -1,10 +1,10 @@
 name 'sym_convert'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Carlos Beleño Caballero'
+maintainer_email 'cbeleno@redsis.com'
 license 'all_rights'
+version '1.0.0'
 description 'Installs/Configures sym_convert'
 long_description 'Installs/Configures sym_convert'
-version '0.1.0'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
